@@ -1,1 +1,5 @@
 ÐÂ¼ÓµÄ
+
+function(){
+aleat(1)
+}
