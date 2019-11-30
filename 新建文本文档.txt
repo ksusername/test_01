@@ -1,10 +1,5 @@
 hello world!
 你好！
- function(){
-	 alert(1)
- }
-
-
-function(){
-aleat(1)
-}
+ 
+ 
+ var vm= new Vue();
